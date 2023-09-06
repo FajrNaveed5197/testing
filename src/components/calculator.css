@@ -1,0 +1,33 @@
+.input {
+  display: flex;
+  flex-direction: row;
+  border-radius: 30px;
+  margin-block: 10rem;
+  align-items: center;
+  justify-content: space-evenly;
+  /* background-color: red; */
+}
+
+.button{
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+}
+
+.white-text {
+    color: white;
+    background-color: #333; 
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 20px;
+  }
+
+body {
+  background-color: rgb(28, 22, 100);
+}
